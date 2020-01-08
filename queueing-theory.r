@@ -28,4 +28,4 @@ W_q = L_q / lambda
 W = W_q + 1 / mu
 
 # Mean number of customers in system
-L = L_q + lambda / mu
+L = L_q + lambda / mu 
